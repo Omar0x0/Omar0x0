@@ -1,12 +1,13 @@
-### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+<h1 align="left">
+  🚀 About me 
+</h1>
 
-There is a land where I share toys and have a break.
+I'm a CS student at Faculty of Computers and Artificial Intelligence
 
-I'm currently learning building tools and AST.
+###  Contact Me :
+<a href="https://linkedin.com/in/omarayman0x0" target="_blank"><img src="https://img.shields.io/badge/Omar%20Ayman-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/Blade_0x0" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Ayman-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
-<summary>⚡️ More about my coding life</summary>
-<br />
+![Omar's github stats](https://github-readme-stats.vercel.app/api?username=Omar0x0&count_private=true&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar0x0&layout=compact&hide=css,html)
-
-![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=Omar0x0&count_private=true&show_icons=true&theme=onedark)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar0x0&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
