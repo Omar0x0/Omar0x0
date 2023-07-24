@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=Yousef-Albasel&icon=2&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About
-I'm a CS student at Faculty of Computers and Artificial Intelligence
+👨‍💻 Aspiring CS Student
 
 ![spinning-donut-featured](https://github.com/Yousef-Albasel/Yousef-Albasel/assets/111648493/2e20c369-adf4-4f2e-b5fb-adadd8374f8d)
 
