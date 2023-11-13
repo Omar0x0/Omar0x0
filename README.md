@@ -1,13 +1,13 @@
-[![](https://visitcount.itsvg.in/api?id=Yousef-Albasel&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Omar0x0&icon=2&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About
 👨‍💻 Aspiring CS Student
 
-![spinning-donut-featured](https://github.com/Yousef-Albasel/Yousef-Albasel/assets/111648493/2e20c369-adf4-4f2e-b5fb-adadd8374f8d)
+![spinning-donut-featured](https://hackaday.com/wp-content/uploads/2020/07/spinning-donut-featured.gif?w=800)
 
 ## 📫 How to reach me:
 <a href="https://linkedin.com/in/omarayman0x0" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/Blade_0x0" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/omar_0x0" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 ## ⚡ Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
