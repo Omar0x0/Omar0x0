@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=Omar0x0&icon=2&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Omar0x0)
 
 # 💫 About
 👨‍💻 Aspiring CS Student
