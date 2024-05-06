@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Omar0x0)
 
 # 💫 About
-👨‍💻 Aspiring CS Student
+As a dedicated Computer Science student at XYZ University, I am deeply engrossed in the multifaceted domain of technology and its practical applications. My academic journey is driven by an unwavering passion for cybersecurity, with a particular focus on the specialized field of Red Teaming. Within this discipline, I am captivated by the intricate processes of simulating adversarial attacks, identifying system vulnerabilities, and crafting robust defensive strategies. Through rigorous study and practical application, I am committed to cultivating a comprehensive skill set aimed at contributing meaningfully to the cybersecurity landscape. At XYZ University, I am afforded the opportunity to not only acquire theoretical knowledge but also engage in hands-on exploration, preparing me to emerge as a proficient and adept professional in the realm of cybersecurity.
 
 ![spinning-donut-featured](https://hackaday.com/wp-content/uploads/2020/07/spinning-donut-featured.gif?w=800)
 
